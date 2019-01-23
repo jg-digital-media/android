@@ -27,3 +27,15 @@
 + golfscoreboardapp - https://bitbucket.org/jg_digitalMedia/golf-scorecard
 
 + hello-world-app - https://bitbucket.org/jg_digitalMedia/hello-world-app
+
++ myapplication - No repository applicable
+
++ pizzakeeper - https://github.com/jg-digital-media/pizzakeeper
+
++ reactnativeemulator - https://bitbucket.org/jg_digitalMedia/reactnativeemulator
+
++ simplenote - https://bitbucket.org/jg_digitalMedia/android-simple-note
+
++ stormy - https://github.com/jg-digital-media/stormy
+
++ stormy_list - https://github.com/jg-digital-media/stormy_list
