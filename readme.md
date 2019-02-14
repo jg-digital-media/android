@@ -1,4 +1,14 @@
-# Android Repositories include.
+# Android Repostory
+
+Repository of Projects created for Google's Android Operating Systen Public 
+
+## Other Repositories
+
++ Projects (URL:- https://github.com/jg-digital-media/projects.git) 
++ Server projects - htdocs (URL: - https://github.com/jg-digital-media/htdocs.git)  
++ WordPress Projects (URL: - https://github.com/jg-digital-media/wordpress.git)
+
+## Projects included in this repository
 
 + android_styles_themes_mlustig - https://github.com/treehouse/android_styles_themes_mlustig
 
@@ -18,18 +28,18 @@
 
 + android-user-input - https://github.com/jg-digital-media/android-user-input
 
-+ apptheism - 
-
 + Colorizer - https://github.com/treehouse/Colorizer.git
 
 + counter - https://bitbucket.org/jg_digitalMedia/counter
 
-+ golfscoreboardapp - https://bitbucket.org/jg_digitalMedia/golf-scorecard
++ GolfScorecardApp - https://bitbucket.org/jg_digitalMedia/golf-scorecard
 
 + hello-world-app - https://bitbucket.org/jg_digitalMedia/hello-world-app
 
-+ myapplication - No repository applicable
++ MyApplication - No repository applicable currently
 
+
+## Not yet included in this repository
 + pizzakeeper - https://github.com/jg-digital-media/pizzakeeper
 
 + reactnativeemulator - https://bitbucket.org/jg_digitalMedia/reactnativeemulator
