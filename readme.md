@@ -1,4 +1,4 @@
-# Android Repostory
+# Android Repository
 
 Repository of Projects created for Google's Android Operating Systen Public 
 
