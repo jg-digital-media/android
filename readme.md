@@ -9,7 +9,7 @@ URL:- https://github.com/jg-digital-media/android
 ## Other Repositories
 
 + Projects - https://github.com/jg-digital-media/projects 
-+ Server Projects (htdocs) - https://github.com/jg-digital-media/htdocs
++ Server Projects (htdocs) - https://github.com/jg-digital-media/server
 + WordPress Projects - https://github.com/jg-digital-media/wordpress
 
 ## Projects included in this repository
